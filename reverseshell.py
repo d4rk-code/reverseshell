@@ -27,4 +27,4 @@ def main():
 		print (result)
 	client_sock.close()
 	socket.close()
-reverseshell()
+main()
